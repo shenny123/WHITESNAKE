@@ -21,9 +21,9 @@ Python 3.8
 * Right arrow - head right
 
 ## Gameplay
-A Lingzhi randomly generates on the map. Press any arrow key to start.
+A Lingzhi randomly generates on the map. Press any arrow key to start.  
 ![start](./readmepics/start.png)
-For every Lingzhi you eat, your score increases by one and so does the length of your body.
+For every Lingzhi you eat, your score increases by one and so does the length of your body.  
 ![middle](./readmepics/middle.png)
-If you ever run into a wall, or into your own body, then the game will be over.
+If you ever run into a wall, or into your own body, then the game will be over.  
 ![end](./readmepics/end.png)
