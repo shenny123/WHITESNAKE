@@ -24,6 +24,6 @@ Python 3.8
 A Lingzhi randomly generates on the map. Press any arrow key to start.
 ![start](./readmepics/start.png)
 For every Lingzhi you eat, your score increases by one and so does the length of your body.
-![middle](./WHITESNAKE/readmepics/middle.png)
+![middle](./readmepics/middle.png)
 If you ever run into a wall, or into your own body, then the game will be over.
-![end](./WHITESNAKE/readmepics/end.png)
+![end](./readmepics/end.png)
